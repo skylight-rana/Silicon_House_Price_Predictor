@@ -1,4 +1,5 @@
-streamlit==1.25.0  # or latest stable version
+streamlit==1.25.0
 pandas==2.1.1
-numpy==1.24.3
-scikit-learn==1.2.2  # required for pickle-loaded model
+numpy==1.26.0
+scikit-learn==1.2.2
+matplotlib==3.7.1
